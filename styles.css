@@ -1,0 +1,60 @@
+body {
+    background-image: url("backround.png");
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: arial;
+}
+.kepala {
+    background-color: rgb(32, 187, 187);
+}
+.navigasi {
+    display: flex;
+    justify-content: space-between;
+}
+.text-logo-restoran {
+    color: white;
+    padding: 30px;
+    font-size: 35px;
+    position: relative;
+    left: 100px;
+    font-weight: bold;
+}
+.list-menu {
+    display: flex;
+    padding: 20px;
+    list-style: none;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    right: 20px;
+}
+a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+/*JUDUL & DESKRIPSI TENTANG MAKANAN*/
+/*judul makanan*/
+.judul-makanan {
+    position: relative;
+    color: rgb(77, 77, 243);
+    left: 700px;
+    font-size: 50px ;
+}
+/*deskripsi makanan*/
+.deskripsi-makanan {
+    position: relative;
+    left: 700px;
+    bottom: 30px;
+    font-size: 20px;
+}
+.tombol-pesan-makanan {
+    background-color: rgb(64, 146, 119);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    position: relative;
+    left: 275px;
+    bottom: 400px;
+}
