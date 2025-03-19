@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+}
+.a {
+background-image: url(nasi.jpg);
+background-attachment: fixed;
+background-size: cover;
+    
+}
+.nama1 {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgba(137, 43, 226, 0.486);
+    border-radius: 30px;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid white;
+}
+.nama2 {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgba(137, 43, 226, 0.616);
+    border-radius: 30px;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid white;
+}
+
+.nama3 {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgba(137, 43, 226, 0.541);
+    border-radius: 30px;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid white;
+}
+.nama4 {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgba(137, 43, 226, 0.562);
+    border-radius: 30px;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid white;
+}
+
+.nama5 {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgba(137, 43, 226, 0.74);
+    border-radius: 30px;
+    border: 10px solid white;
+}
+
+.menu2 {
+    color: brown;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid white;
+}
+
+    
